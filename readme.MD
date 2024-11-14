@@ -12,6 +12,8 @@ Orginal Repo: https://github.com/macbookandrew/wp-youtube-live
 
 Note from Anthony: I have made some changes to the plugin that fixes the width and height overriding not working problem and makes it so that you can provide different heights and widths when the screen is less than 790px wide. The new code I added is messy and may cause more bugs then the Original code. ¯\_(ツ)\_/¯
 
+Also, I did not just make a fork or pull because I downloaded these files straight from the wordpress project this was being used in. I also, could not be bothered to figure out how to make git think this is a fork of the original project.
+
 Displays the current YouTube live video from a specified channel.
 
 == Description ==
